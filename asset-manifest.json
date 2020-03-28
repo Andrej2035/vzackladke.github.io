@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Andrej2035/magazin.git/static/css/main.32a10329.chunk.css",
+    "main.js": "/Andrej2035/magazin.git/static/js/main.bf40a60b.chunk.js",
+    "main.js.map": "/Andrej2035/magazin.git/static/js/main.bf40a60b.chunk.js.map",
+    "runtime-main.js": "/Andrej2035/magazin.git/static/js/runtime-main.2e84a80c.js",
+    "runtime-main.js.map": "/Andrej2035/magazin.git/static/js/runtime-main.2e84a80c.js.map",
+    "static/js/2.648bfe4d.chunk.js": "/Andrej2035/magazin.git/static/js/2.648bfe4d.chunk.js",
+    "static/js/2.648bfe4d.chunk.js.map": "/Andrej2035/magazin.git/static/js/2.648bfe4d.chunk.js.map",
+    "index.html": "/Andrej2035/magazin.git/index.html",
+    "precache-manifest.bfd9ebccf5b787e8e7499106bfa933dc.js": "/Andrej2035/magazin.git/precache-manifest.bfd9ebccf5b787e8e7499106bfa933dc.js",
+    "service-worker.js": "/Andrej2035/magazin.git/service-worker.js",
+    "static/css/main.32a10329.chunk.css.map": "/Andrej2035/magazin.git/static/css/main.32a10329.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e84a80c.js",
+    "static/js/2.648bfe4d.chunk.js",
+    "static/css/main.32a10329.chunk.css",
+    "static/js/main.bf40a60b.chunk.js"
+  ]
+}
